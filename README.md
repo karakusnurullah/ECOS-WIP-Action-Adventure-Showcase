@@ -16,6 +16,7 @@ Welcome to the **ECOS Showcase**! 🎮
 
 Stay up to date with the latest development progress!
 
+- **[Main Character Animations Update (08.03.2025)](Updates/Animations/MainCharacterAnimations.md)**
 - **[Main Character Update (08.03.2025)](Updates/Characters/MainCharacter.md)**
 
 ➡ **[View All Updates](Updates/Update.md)**

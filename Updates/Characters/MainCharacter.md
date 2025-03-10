@@ -1,6 +1,6 @@
 ## 🧝🏻 Main Character  
 
-This section showcases the **latest updates** on the main character's design, animations, and improvements.  
+This section showcases the **latest updates** on the main character's design, and improvements.  
 Click the sections below to **expand and view details**.
 
 ### 📌 Updates  
@@ -11,7 +11,7 @@ Click the sections below to **expand and view details**.
   ### **🧝🏻🏹 Meet our fierce warrior, the Elven Princess!**  
   Graceful yet deadly, she is constantly evolving with enhanced animations, refined textures, and improved mechanics.  
 
-  | 🎞 **GIF (Animation Preview)** | 🏹 **Full Body** | 🎭 **Portrait** |
+  | 🎞 **GIF ** | 🏹 **Full Body** | 🎭 **Portrait** |
   |------|------|------|
   | <img src="https://raw.githubusercontent.com/karakusnurullah/ECOS-WIP-Action-Adventure-Showcase/main/Assets/Gif/Characters/MainCharacters/MainCharacter.gif" width="215"> | <img src="https://raw.githubusercontent.com/karakusnurullah/ECOS-WIP-Action-Adventure-Showcase/main/Assets/Images/Characters/MainCharacter/MainCharacterFullBody.png" width="600"> | <img src="https://raw.githubusercontent.com/karakusnurullah/ECOS-WIP-Action-Adventure-Showcase/main/Assets/Images/Characters/MainCharacter/MainCharacterPotrait.png" width="475"> |
 
