@@ -16,8 +16,13 @@ Welcome to the **ECOS Showcase**! 🎮
 
 Stay up to date with the latest development progress!
 
-- **[Main Character Animations Update (08.03.2025)](Updates/Animations/MainCharacterAnimations.md)**
-- **[Main Character Update (08.03.2025)](Updates/Characters/MainCharacter.md)**
+- **🖥️ [Main Character Main UI Update (WIP - 12.03.2025)](Updates/UI/MainUI.md)**  
+- **🛡️ [Main Character Equip System Update (WIP - 12.03.2025)](Updates/Functions/Character.md)**  
+- **🎒 [Main Character Inventory System Update (WIP - 12.03.2025)](Updates/Functions/Inventory.md)**  
+- **⚔️ [Main Character Weapon System Update (WIP - 12.03.2025)](Updates/Items/Weapons.md)**  
+- **📦 [Main Character Item System Update (WIP - 12.03.2025)](Updates/Items/Items.md)**  
+- **🎭 [Main Character Animations Update (10.03.2025)](Updates/Animations/MainCharacterAnimations.md)**  
+- **🧝🏻‍♀️ [Main Character Update (08.03.2025)](Updates/Characters/MainCharacter.md)**  
 
 ➡ **[View All Updates](Updates/Update.md)**
 
