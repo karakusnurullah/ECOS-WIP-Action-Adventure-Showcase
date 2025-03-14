@@ -12,17 +12,22 @@ Welcome to the **ECOS Showcase**! 🎮
 
 ---
 
-## 📢 Latest Updates 🔥
+## 📌 Latest Updates  
 
-Stay up to date with the latest development progress!
+📰 Stay up to date with the latest changes, improvements, and additions to the project.  
+Below, you'll find the most recent updates on characters, animations, and designs.  
 
+- **🛡️ [Main Character Equip System Update (15.03.2025)](Updates/Functions/Character.md)**  
+- **🎒 [Main Character Inventory System Update (15.03.2025)](Updates/Functions/Inventory.md)**  
+- **⚔️ [Main Character Weapon System Update (15.03.2025)](Updates/Items/Weapons.md)**  
+ 
 - **🖥️ [Main Character Main UI Update (WIP - 12.03.2025)](Updates/UI/MainUI.md)**  
-- **🛡️ [Main Character Equip System Update (WIP - 12.03.2025)](Updates/Functions/Character.md)**  
-- **🎒 [Main Character Inventory System Update (WIP - 12.03.2025)](Updates/Functions/Inventory.md)**  
-- **⚔️ [Main Character Weapon System Update (WIP - 12.03.2025)](Updates/Items/Weapons.md)**  
-- **📦 [Main Character Item System Update (WIP - 12.03.2025)](Updates/Items/Items.md)**  
+- ~~**🛡️ [Main Character Equip System Update (WIP - 12.03.2025)](Updates/Functions/Character.md)**~~  
+- ~~**🎒 [Main Character Inventory System Update (WIP - 12.03.2025)](Updates/Functions/Inventory.md)**~~  
+- ~~**⚔️ [Main Character Weapon System Update (WIP - 12.03.2025)](Updates/Items/Weapons.md)**~~  
 - **🎭 [Main Character Animations Update (10.03.2025)](Updates/Animations/MainCharacterAnimations.md)**  
-- **🧝🏻‍♀️ [Main Character Update (08.03.2025)](Updates/Characters/MainCharacter.md)**  
+- **🧝🏻‍♀️ [Main Character Update (08.03.2025)](Updates/Characters/MainCharacter.md)**   
+
 
 ➡ **[View All Updates](Updates/Update.md)**
 
